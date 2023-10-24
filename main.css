@@ -23,6 +23,7 @@ h1 {
 
 h2 {
 	font-size: 1.75em;
+	padding: 5px;
 }
 
 h3 {
@@ -30,11 +31,12 @@ h3 {
 }
 
 p {
-
+	
 }
 
 .album-art {
-
+	border: 2px solid red;
+	
 }
 
 .clear {
@@ -54,7 +56,9 @@ p {
 }
 
 #about-photo {
-
+	border: 2px solid red;
+	padding: 15px;
+	margin-left: 15px;
 }
 
 #copyright {
@@ -62,10 +66,17 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	border: 2px solid red;
+	padding: 10px;
+	margin-top: 10px;
 }
 
 #text-intro {
-	background-color: darkgray;
+	background-color: darkgrey;
 	color: red;
+	margin: 10px;
+	padding: 15px;
+	border: 2px solid red;
+	margin-bottom: 30px;
 }
+
