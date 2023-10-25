@@ -31,11 +31,6 @@ h3 {
 	padding: 5px;
 }
 
-p {
-	
-
-}
-
 .album-art {
 	border: 2px solid red;
 	padding: 15px;
@@ -62,10 +57,6 @@ p {
 
 .record-label {
 	color: red;
-}
-
-.track-list {
-
 }
 
 #about-photo {
@@ -98,7 +89,4 @@ p {
 	margin-bottom: 30px;
 }
 
-#section-discography p {
-	
-}
 
