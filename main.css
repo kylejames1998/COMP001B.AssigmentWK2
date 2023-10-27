@@ -37,9 +37,9 @@ h3 {
 	margin-left: 20px;
 	float: left;
 	margin-right: 25px;
-	margin-bottom: 15px;
+	margin-bottom: 30px;
 	box-sizing: border-box;
-	
+	width: 200px;	
 }
 
 .clear {
@@ -79,15 +79,17 @@ h3 {
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-bottom: 20px;
+	margin-top: 30px;
 }
 
 #text-intro {
-	background-color: darkgrey;
+	background-color: #333333;
 	color: red;
 	margin: 10px;
 	padding: 15px;
 	border: 2px solid red;
 	margin-bottom: 30px;
 }
+
 
 
